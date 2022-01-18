@@ -1,0 +1,40 @@
+
+*{
+    margin: 2px;
+    padding: 2px;
+}
+.bt {
+
+    color: chartreuse;
+    border-radius: 0px;
+    text-align: center;
+    
+
+}
+.word{
+    text-align: center;
+    display: none;
+    animation: 5s;
+}
+.btn{
+    color: aqua;
+}
+.bt button{
+    background-color: black;
+    color: white;
+    width: 120px;
+    border-radius: 30px;
+    width: 150px;
+    height: 25px;
+
+
+    
+}
+.hed h2{
+    text-align: center
+    
+}
+.bt button: hover{
+    color: aqua;
+    background-color: aqua;
+}
